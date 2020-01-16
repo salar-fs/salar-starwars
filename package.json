@@ -1,0 +1,25 @@
+{
+  "name": "salar-starwars",
+  "version": "0.1.0",
+  "description": "Salar Star Wars",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salar-fs/salar-starwars.git"
+  },
+  "keywords": [
+    "salar",
+    "Star",
+    "Wars",
+    "npm"
+  ],
+  "author": "Salar Hafezi <salar.hfz@gmail.com> (https://salar-hafezi.pro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salar-fs/salar-starwars/issues"
+  },
+  "homepage": "https://github.com/salar-fs/salar-starwars#readme"
+}
